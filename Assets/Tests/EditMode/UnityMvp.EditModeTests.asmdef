@@ -1,0 +1,25 @@
+{
+  "name": "UnityMvp.EditModeTests",
+  "references": [
+    "UnityMvp.Runtime",
+    "UniTask",
+    "R3.Unity",
+    "VContainer",
+    "Unity.Addressables"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "R3.dll",
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

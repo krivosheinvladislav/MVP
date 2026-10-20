@@ -1,0 +1,6 @@
+{
+  "name": "UnityMvp.Runtime",
+  "rootNamespace": "UnityMvp",
+  "references": ["UniTask", "R3.Unity", "VContainer", "Unity.Addressables", "Unity.ResourceManager"],
+  "autoReferenced": true
+}
